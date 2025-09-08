@@ -31,5 +31,5 @@ export const clothesColors = [
   { label: 'White', color: 'hsl(180deg, 10%, 85%)' },
 ];
 
-export const defaultSkinColor = skinColors[0].color;
-export const defaultClothesColor = clothesColors[0].color;
+export const defaultSkinColor = skinColors[10].color;
+export const defaultClothesColor = clothesColors[5].color;

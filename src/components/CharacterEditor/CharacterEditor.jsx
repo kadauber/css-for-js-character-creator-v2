@@ -19,10 +19,10 @@ import {
 import styles from './CharacterEditor.module.css';
 
 function App() {
-  const [body, setBody] = React.useState(0);
-  const [head, setHead] = React.useState(0);
-  const [face, setFace] = React.useState(0);
-  const [accessory, setAccessory] = React.useState(0);
+  const [body, setBody] = React.useState(3);
+  const [head, setHead] = React.useState(9);
+  const [face, setFace] = React.useState(5);
+  const [accessory, setAccessory] = React.useState(1);
   const [skinColor, setSkinColor] = React.useState(defaultSkinColor);
   const [clothesColor, setClothesColor] = React.useState(
     defaultClothesColor
