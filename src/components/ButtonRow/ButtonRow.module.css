@@ -1,2 +1,7 @@
 .buttonRow {
+    overflow-x: auto;
+}
+
+.buttonRowWidthWrapper {
+    width: max-content;
 }
