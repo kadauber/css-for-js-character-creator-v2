@@ -37,3 +37,12 @@
 .controlColumn {
   max-width: 50%;
 }
+
+.decoration {
+  background-color: hsl(195deg, 20%, 86%);
+  position: fixed;
+  top: 60%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
